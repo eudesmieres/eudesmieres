@@ -48,8 +48,8 @@
 
   <h2 >Educación🎓</h2>
   
-  - 💻 Full Stack Developer | Soy Henry
-  - 👨🏻‍💻 Quality Assurance(QA) | CoderHouse
+  - 💻 Full Stack Developer | <img src="https://img.shields.io/badge/Soy_Henry-FFC107?style=for-the-badge" alt="soy-henry" />
+  - 👨🏻‍💻 Quality Assurance(QA) | <img src="https://img.shields.io/badge/Coderhouse-172B4D?style=for-the-badge" alt="coderhouse" />
 
   </br></br>
   
