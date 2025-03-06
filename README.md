@@ -12,17 +12,18 @@
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
   
-- 💻 Desarrolladora Full Stack
+- 💻 Quality Assurance(QA) | Desarrolladora Full Stack
 - ⭐ Me encanta colaborar con equipos multidisciplinarios y encontrar soluciones innovadoras para desafíos complejos.
 - 🎓 Con conocimientos en marketing digital, estrategia de contenido, publicidad, medición de resultados y CPL
   
   
-  <h2 >Tecnologías conocidas👨🏻‍💻</h2>
+  <h2 >Información adicional👨🏻‍💻</h2>
 <!--tech stack icons-->
  - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wp" />
   
   - <h5> currently learning </h5>
    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
